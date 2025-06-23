@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "35816631802",
+    "project_id": "pixelgram-25f5f",
+    "storage_bucket": "pixelgram-25f5f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:35816631802:android:cef3c22b6d1ba7aa570843",
+        "android_client_info": {
+          "package_name": "com.bg_mamka.my_messenger_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKID6lXK3i8EUuHy5R1J9uDuyDiy4wiy8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:35816631802:android:97f6a8e0f7482c62570843",
+        "android_client_info": {
+          "package_name": "com.example.my_messenger_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKID6lXK3i8EUuHy5R1J9uDuyDiy4wiy8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:35816631802:android:04ce2c7a8bf1b565570843",
+        "android_client_info": {
+          "package_name": "com.example.my_messenger_app_new"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKID6lXK3i8EUuHy5R1J9uDuyDiy4wiy8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,27 @@
+name: my_messenger_app
+description: A new Flutter project.
+
+publish_to: 'none' # Remove this line if publishing to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.18.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+
+  uses-material-design: true
+
+  # Если есть ассеты, раскомментируй и добавь пути, например:
+  # assets:
+  #   - assets/images/
